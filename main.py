@@ -2,7 +2,7 @@
 
 
 def my_superfunction():
-    print('Print')
+    print('Hello, python!')
 
 
 def main():
